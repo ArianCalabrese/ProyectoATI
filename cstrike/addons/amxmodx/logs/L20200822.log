@@ -1,0 +1,10 @@
+L 08/22/2020 - 17:35:57: -------- Mapchange to cs_assault --------
+L 08/22/2020 - 17:38:21: -------- Mapchange to cs_assault --------
+L 08/22/2020 - 17:38:23: [amx_match_deluxe.amxx] [AMXX] SQL Connection Failed: Can't connect to MySQL server on '127.0.0.1' (10061)
+L 08/22/2020 - 17:38:54: [adminchat.amxx] Chat: "Pruebas AMX<0><><>" csay "pene"
+L 08/22/2020 - 17:50:51: -------- Mapchange to cs_assault --------
+L 08/22/2020 - 18:36:40: -------- Mapchange to cs_assault --------
+L 08/22/2020 - 18:37:17: [admin.amxx] Login: "Arian<8><STEAM_0:0:57507468><>" became an admin (account "Arian") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 08/22/2020 - 18:41:43: -------- Mapchange to cs_assault --------
+L 08/22/2020 - 18:42:16: [admin.amxx] Login: "Arian<8><STEAM_0:0:57507468><>" became an admin (account "Arian") (access "abcdefghijklmnopqrstu") (address "192.168.0.101")
+L 08/22/2020 - 18:43:18: [amx_podbotmenu.amxx] [POD-Bot] "<8><STEAM_0:0:575074><>" kill all bots

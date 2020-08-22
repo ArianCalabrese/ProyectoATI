@@ -1,0 +1,14 @@
+L 08/22/2020 - 17:38:23: Start of error session.
+L 08/22/2020 - 17:38:23: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20200822.log")
+L 08/22/2020 - 17:38:23: [MySQL] Invalid handle: 0
+L 08/22/2020 - 17:38:23: [AMXX] Run time error 10 (plugin "amx_match_deluxe.amxx") (native "SQL_FreeHandle") - debug not enabled!
+L 08/22/2020 - 17:38:23: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 08/22/2020 - 17:50:51: Start of error session.
+L 08/22/2020 - 17:50:51: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20200822.log")
+L 08/22/2020 - 17:50:51: [AMXX] Plugin file open error (plugin "amx_match_deluxe.amxx")
+L 08/22/2020 - 18:36:40: Start of error session.
+L 08/22/2020 - 18:36:40: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20200822.log")
+L 08/22/2020 - 18:36:40: [AMXX] Plugin file open error (plugin "amx_match_deluxe.amxx")
+L 08/22/2020 - 18:41:43: Start of error session.
+L 08/22/2020 - 18:41:43: Info (map "cs_assault") (file "addons/amxmodx/logs/error_20200822.log")
+L 08/22/2020 - 18:41:43: [AMXX] Plugin file open error (plugin "amx_match_deluxe.amxx")
